@@ -54,7 +54,7 @@ export function StatsBar({ filteredPlans, totalPlans }: StatsBarProps) {
             {stat.icon}
             <span className="text-xs text-muted-foreground">{stat.label}</span>
           </div>
-          <p className="text-xl font-semibold text-foreground font-mono whitespace-nowrap">
+          <p className="text-xl font-semibold text-foreground whitespace-nowrap">
             {stat.value}
             {stat.suffix && (
               <span className="text-xs text-muted-foreground font-normal ml-1">{stat.suffix}</span>

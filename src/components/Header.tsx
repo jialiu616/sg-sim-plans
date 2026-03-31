@@ -11,7 +11,7 @@ export function Header() {
               <Signal className="w-4 h-4 sm:w-5 sm:h-5 text-primary" />
             </div>
             <div>
-              <h1 className="text-base sm:text-lg font-semibold tracking-tight text-foreground font-mono">
+              <h1 className="text-base sm:text-lg font-semibold tracking-tight text-foreground">
                 SG SIM Plans
               </h1>
               <p className="text-[10px] sm:text-xs text-muted-foreground">

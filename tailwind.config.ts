@@ -17,8 +17,8 @@ const config: Config = {
     },
     extend: {
       fontFamily: {
-        mono: ['JetBrains Mono', 'monospace'],
-        sans: ['Inter', 'sans-serif'],
+        mono: ['SF Mono', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'monospace'],
+        sans: ['-apple-system', 'BlinkMacSystemFont', 'SF Pro Text', 'Helvetica Neue', 'Arial', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -68,14 +68,6 @@ const config: Config = {
         sm: "calc(var(--radius) - 4px)",
       },
       keyframes: {
-        "pulse-glow": {
-          "0%, 100%": { opacity: "1" },
-          "50%": { opacity: "0.6" },
-        },
-        "scan-line": {
-          "0%": { transform: "translateY(-100%)" },
-          "100%": { transform: "translateY(100vh)" },
-        },
         "fade-in": {
           "0%": { opacity: "0", transform: "translateY(8px)" },
           "100%": { opacity: "1", transform: "translateY(0)" },
@@ -98,8 +90,6 @@ const config: Config = {
         },
       },
       animation: {
-        "pulse-glow": "pulse-glow 2s ease-in-out infinite",
-        "scan-line": "scan-line 8s linear infinite",
         "fade-in": "fade-in 0.3s ease-out",
         "slide-up": "slide-up 300ms cubic-bezier(0.32, 0.72, 0, 1)",
         "slide-down": "slide-down 200ms ease-in",
