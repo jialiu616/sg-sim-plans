@@ -71,33 +71,59 @@ export function FilterContent({ filters, onFiltersChange }: FilterContentProps) 
         </div>
       </div>
 
-      {/* Price Range (SG$) - compact inline */}
+      {/* Price Range - dual-handle slider */}
       <div>
-        <label className="text-xs text-muted-foreground mb-2 block">Price Range (SG$/mth)</label>
-        <div className="flex items-center gap-2">
+        <div className="flex justify-between items-center mb-2">
+          <label className="text-xs text-muted-foreground">Price Range</label>
+          <span className="text-xs text-primary font-medium">
+            ${filters.priceRange[0]} – ${filters.priceRange[1]}
+          </span>
+        </div>
+        <div className="range-slider">
+          <div className="range-slider__track" />
+          <div
+            className="range-slider__fill"
+            style={{
+              left: `${filters.priceRange[0]}%`,
+              width: `${filters.priceRange[1] - filters.priceRange[0]}%`,
+            }}
+          />
           <input
-            type="number"
-            min="0"
-            max="100"
+            type="range"
+            min={0}
+            max={100}
+            step={1}
             value={filters.priceRange[0]}
             onChange={(e) => {
               const val = Math.max(0, Math.min(Number(e.target.value), filters.priceRange[1]))
               onFiltersChange({ ...filters, priceRange: [val, filters.priceRange[1]] })
             }}
-            className="input-terminal w-16 text-center !py-1 text-xs"
+            className="range-slider__input"
+            style={{ zIndex: filters.priceRange[0] > filters.priceRange[1] - 1 ? 5 : 3 }}
+            aria-label="Minimum price"
+            aria-valuenow={filters.priceRange[0]}
+            aria-valuetext={`$${filters.priceRange[0]}`}
           />
-          <span className="text-xs text-muted-foreground">-</span>
           <input
-            type="number"
-            min="0"
-            max="100"
+            type="range"
+            min={0}
+            max={100}
+            step={1}
             value={filters.priceRange[1]}
             onChange={(e) => {
               const val = Math.max(filters.priceRange[0], Math.min(Number(e.target.value), 100))
               onFiltersChange({ ...filters, priceRange: [filters.priceRange[0], val] })
             }}
-            className="input-terminal w-16 text-center !py-1 text-xs"
+            className="range-slider__input"
+            style={{ zIndex: 4 }}
+            aria-label="Maximum price"
+            aria-valuenow={filters.priceRange[1]}
+            aria-valuetext={`$${filters.priceRange[1]}`}
           />
+        </div>
+        <div className="flex justify-between mt-0.5">
+          <span className="text-[10px] text-muted-foreground">$0</span>
+          <span className="text-[10px] text-muted-foreground">$100</span>
         </div>
       </div>
 
