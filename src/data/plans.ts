@@ -65,7 +65,7 @@ export const PROVIDER_URLS: Record<string, string> = {
   "M1": "https://www.m1.com.sg",
   "Singtel": "https://www.singtel.com",
   "StarHub": "https://www.starhub.com",
-  "Zym Mobile": "https://zym.sg",
+  "ZYM Mobile": "https://zym.sg",
   "CUniq": "https://www.cuniq.sg",
 };
 
@@ -1291,10 +1291,10 @@ export const plans: SimPlan[] = [
     notes: "$20 DeviceDollars monthly"
   },
 
-  // ========== Zym Mobile (Network: Singtel) ==========
+  // ========== ZYM Mobile (Network: Singtel) ==========
   {
     id: 75,
-    provider: "Zym Mobile",
+    provider: "ZYM Mobile",
     network: "Singtel",
     planName: "Flexi Duo 4G",
     data: "77GB",
@@ -1304,12 +1304,12 @@ export const plans: SimPlan[] = [
     sms: "-",
     roaming: "100GB Malaysia (one-time, 90 days); data shared across SG & MY",
     price: 7.00,
-    esim: false,
+    esim: true,
     notes: "Data-only SIM"
   },
   {
     id: 76,
-    provider: "Zym Mobile",
+    provider: "ZYM Mobile",
     network: "Singtel",
     planName: "Roam Saver 4G",
     data: "200GB",
@@ -1324,7 +1324,7 @@ export const plans: SimPlan[] = [
   },
   {
     id: 77,
-    provider: "Zym Mobile",
+    provider: "ZYM Mobile",
     network: "Singtel",
     planName: "Roam Plus 4G",
     data: "300GB",
@@ -1334,12 +1334,12 @@ export const plans: SimPlan[] = [
     sms: "100 SMS",
     roaming: "5GB shared/mth across 13 destinations (MY, ID, TH, TW, PH, IN, JP, KR, AU, CN, HK, MO, VN); 600GB Malaysia & Indonesia bonus (one-time, 365 days)",
     price: 10.10,
-    esim: false,
+    esim: true,
     notes: "Data rollover"
   },
   {
     id: 78,
-    provider: "Zym Mobile",
+    provider: "ZYM Mobile",
     network: "Singtel",
     planName: "Roam Smart 5G+",
     data: "400GB",
@@ -1354,7 +1354,7 @@ export const plans: SimPlan[] = [
   },
   {
     id: 79,
-    provider: "Zym Mobile",
+    provider: "ZYM Mobile",
     network: "Singtel",
     planName: "Roam Eco 5G+",
     data: "550GB",
@@ -1369,7 +1369,7 @@ export const plans: SimPlan[] = [
   },
   {
     id: 80,
-    provider: "Zym Mobile",
+    provider: "ZYM Mobile",
     network: "Singtel",
     planName: "Roam Power 5G+",
     data: "700GB",
@@ -1379,7 +1379,7 @@ export const plans: SimPlan[] = [
     sms: "100 SMS",
     roaming: "15GB shared/mth across 13 destinations; 600GB Malaysia, Indonesia & Thailand bonus (one-time, 365 days)",
     price: 22.10,
-    esim: false,
+    esim: true,
     notes: "Data rollover"
   },
 
