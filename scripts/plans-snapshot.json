@@ -1,0 +1,442 @@
+{
+  "Zero1::Starter Prime 4G": {
+    "id": 1,
+    "hash": "7qi2vu",
+    "date": "2026-03-31"
+  },
+  "Zero1::Jumbo Value 5G": {
+    "id": 2,
+    "hash": "fwf205",
+    "date": "2026-03-31"
+  },
+  "Zero1::Streamo Bold 4G": {
+    "id": 3,
+    "hash": "-5n60eu",
+    "date": "2026-03-31"
+  },
+  "Zero1::Movemo VIBE 4G": {
+    "id": 4,
+    "hash": "4pakd4",
+    "date": "2026-03-31"
+  },
+  "Zero1::Jumbo Joy 5G": {
+    "id": 5,
+    "hash": "-4look9",
+    "date": "2026-03-31"
+  },
+  "Zero1::Streamo Freedom 5G": {
+    "id": 6,
+    "hash": "-kdvwl2",
+    "date": "2026-03-31"
+  },
+  "Zero1::Movemo DASH 5G": {
+    "id": 7,
+    "hash": "-yuibdy",
+    "date": "2026-03-31"
+  },
+  "Zero1::Jumbo Pro 5G": {
+    "id": 8,
+    "hash": "w8a7fc",
+    "date": "2026-03-31"
+  },
+  "CMLink::200GB 4G": {
+    "id": 9,
+    "hash": "2tkon1",
+    "date": "2026-03-31"
+  },
+  "CMLink::300GB 4G": {
+    "id": 10,
+    "hash": "-h6uhrs",
+    "date": "2026-03-31"
+  },
+  "CMLink::400GB 5G": {
+    "id": 11,
+    "hash": "10o80g",
+    "date": "2026-03-31"
+  },
+  "CMLink::450GB 5G": {
+    "id": 12,
+    "hash": "1b7hbv",
+    "date": "2026-03-31"
+  },
+  "CMLink::Unlimited 5G": {
+    "id": 13,
+    "hash": "grr584",
+    "date": "2026-03-31"
+  },
+  "VIVIFI::Roam Value 4G": {
+    "id": 14,
+    "hash": "6vtnh",
+    "date": "2026-03-31"
+  },
+  "VIVIFI::VIBE 4G": {
+    "id": 15,
+    "hash": "s97n0h",
+    "date": "2026-03-31"
+  },
+  "VIVIFI::Plus 20 4G": {
+    "id": 16,
+    "hash": "1wd87",
+    "date": "2026-03-31"
+  },
+  "VIVIFI::Roam Asia Super 5G+": {
+    "id": 17,
+    "hash": "-mou1sb",
+    "date": "2026-03-31"
+  },
+  "VIVIFI::Roam Max 5G+": {
+    "id": 18,
+    "hash": "wrtmav",
+    "date": "2026-03-31"
+  },
+  "VIVIFI::Roam Premium 5G+": {
+    "id": 19,
+    "hash": "-yy1npg",
+    "date": "2026-03-31"
+  },
+  "Maxx::290GB 4G": {
+    "id": 20,
+    "hash": "-p7tulj",
+    "date": "2026-03-31"
+  },
+  "Maxx::400GB 5G": {
+    "id": 21,
+    "hash": "-z9pfb8",
+    "date": "2026-03-31"
+  },
+  "Maxx::500GB 5G": {
+    "id": 22,
+    "hash": "-38ygfn",
+    "date": "2026-03-31"
+  },
+  "MyRepublic::150GB 4G": {
+    "id": 23,
+    "hash": "-u6kok6",
+    "date": "2026-03-31"
+  },
+  "MyRepublic::300GB 4G": {
+    "id": 24,
+    "hash": "-z47qk6",
+    "date": "2026-03-31"
+  },
+  "MyRepublic::300GB 4G (Port-in)": {
+    "id": 25,
+    "hash": "-numhhv",
+    "date": "2026-03-31"
+  },
+  "MyRepublic::600GB 4G": {
+    "id": 26,
+    "hash": "j975ee",
+    "date": "2026-03-31"
+  },
+  "MyRepublic::500GB 5G": {
+    "id": 27,
+    "hash": "-rj6m5l",
+    "date": "2026-03-31"
+  },
+  "MyRepublic::650GB 5G": {
+    "id": 28,
+    "hash": "-so40n9",
+    "date": "2026-03-31"
+  },
+  "MyRepublic::850GB 5G": {
+    "id": 29,
+    "hash": "w33wpn",
+    "date": "2026-03-31"
+  },
+  "eight::Double Eight 4G": {
+    "id": 30,
+    "hash": "qe6bo5",
+    "date": "2026-03-31"
+  },
+  "eight::Fortune Eight 4G": {
+    "id": 31,
+    "hash": "-bojshy",
+    "date": "2026-03-31"
+  },
+  "eight::Lucky Eight 5G": {
+    "id": 32,
+    "hash": "x1uwrt",
+    "date": "2026-03-31"
+  },
+  "eight::Triple Eight 5G": {
+    "id": 33,
+    "hash": "-q5fv3l",
+    "date": "2026-03-31"
+  },
+  "Circles.Life::4G Lite": {
+    "id": 34,
+    "hash": "-9wfbir",
+    "date": "2026-03-31"
+  },
+  "Circles.Life::4G Core": {
+    "id": 35,
+    "hash": "-mgs8nb",
+    "date": "2026-03-31"
+  },
+  "Circles.Life::5G Core": {
+    "id": 36,
+    "hash": "-cq18up",
+    "date": "2026-03-31"
+  },
+  "Circles.Life::5G Plus": {
+    "id": 37,
+    "hash": "66lz77",
+    "date": "2026-03-31"
+  },
+  "Circles.Life::5G Pro": {
+    "id": 38,
+    "hash": "b69lpp",
+    "date": "2026-03-31"
+  },
+  "Circles.Life::5G Max": {
+    "id": 39,
+    "hash": "-zg9nwb",
+    "date": "2026-03-31"
+  },
+  "Circles.Life::5G Ultra": {
+    "id": 40,
+    "hash": "-uht6jc",
+    "date": "2026-03-31"
+  },
+  "SIMBA::Seniors Plan": {
+    "id": 41,
+    "hash": "lldkye",
+    "date": "2026-03-31"
+  },
+  "SIMBA::SuperRoam 10": {
+    "id": 42,
+    "hash": "375fa5",
+    "date": "2026-03-31"
+  },
+  "SIMBA::SuperRoam 12": {
+    "id": 43,
+    "hash": "-n09c11",
+    "date": "2026-03-31"
+  },
+  "SIMBA::SuperRoam 18": {
+    "id": 44,
+    "hash": "-yhpmut",
+    "date": "2026-03-31"
+  },
+  "SIMBA::SuperRoam 20": {
+    "id": 45,
+    "hash": "r8pnli",
+    "date": "2026-03-31"
+  },
+  "SIMBA::SuperRoam 25": {
+    "id": 46,
+    "hash": "593jrq",
+    "date": "2026-03-31"
+  },
+  "GOMO::4G Saver": {
+    "id": 47,
+    "hash": "-lsz2g9",
+    "date": "2026-03-31"
+  },
+  "GOMO::5G+ Value": {
+    "id": 48,
+    "hash": "gdks2",
+    "date": "2026-03-31"
+  },
+  "GOMO::4G Plus": {
+    "id": 49,
+    "hash": "-a7lfnj",
+    "date": "2026-03-31"
+  },
+  "GOMO::5G+ Pro": {
+    "id": 50,
+    "hash": "yqhmhc",
+    "date": "2026-03-31"
+  },
+  "GOMO::5G+ Jetsetter": {
+    "id": 51,
+    "hash": "5f4ecc",
+    "date": "2026-03-31"
+  },
+  "giga!::100GB 4G": {
+    "id": 52,
+    "hash": "-k7d1tz",
+    "date": "2026-03-31"
+  },
+  "giga!::200GB 4G": {
+    "id": 53,
+    "hash": "k16uah",
+    "date": "2026-03-31"
+  },
+  "giga!::300GB 5G": {
+    "id": 54,
+    "hash": "-5cx5tp",
+    "date": "2026-03-31"
+  },
+  "giga!::400GB 5G": {
+    "id": 55,
+    "hash": "-y8gkig",
+    "date": "2026-03-31"
+  },
+  "giga!::500GB 5G": {
+    "id": 56,
+    "hash": "sokdlj",
+    "date": "2026-03-31"
+  },
+  "giga!::500GB 5G Plus": {
+    "id": 57,
+    "hash": "-say3xw",
+    "date": "2026-03-31"
+  },
+  "giga!::1TB 5G": {
+    "id": 58,
+    "hash": "-sck9sy",
+    "date": "2026-03-31"
+  },
+  "redONE::BEST10": {
+    "id": 59,
+    "hash": "f9wotj",
+    "date": "2026-03-31"
+  },
+  "redONE::BEST20": {
+    "id": 60,
+    "hash": "a90vdh",
+    "date": "2026-03-31"
+  },
+  "M1::Bespoke 150GB 5G": {
+    "id": 61,
+    "hash": "-cdxt3c",
+    "date": "2026-03-31"
+  },
+  "M1::Bespoke 1TB 5G": {
+    "id": 62,
+    "hash": "x8e2vs",
+    "date": "2026-03-31"
+  },
+  "M1::Bespoke 1TB + Worldwide 5G": {
+    "id": 63,
+    "hash": "-7v5h4y",
+    "date": "2026-03-31"
+  },
+  "Singtel::SIM Only Enhanced Lite 5G+": {
+    "id": 64,
+    "hash": "-e18pju",
+    "date": "2026-03-31"
+  },
+  "Singtel::SIM Only Enhanced Core 5G+": {
+    "id": 65,
+    "hash": "-xc70tk",
+    "date": "2026-03-31"
+  },
+  "Singtel::SIM Only Priority Plus 5G+": {
+    "id": 66,
+    "hash": "-fgj099",
+    "date": "2026-03-31"
+  },
+  "Singtel::SIM Only Priority Ultra 5G+": {
+    "id": 67,
+    "hash": "-7edul4",
+    "date": "2026-03-31"
+  },
+  "Singtel::hi! $15 5G Prepaid": {
+    "id": 68,
+    "hash": "eqs1yq",
+    "date": "2026-03-31"
+  },
+  "Singtel::hi! $20 5G Prepaid": {
+    "id": 69,
+    "hash": "gp4arx",
+    "date": "2026-03-31"
+  },
+  "Singtel::hi! $25 5G+ Ultimate": {
+    "id": 70,
+    "hash": "4tc9e3",
+    "date": "2026-03-31"
+  },
+  "StarHub::5G Unlimited+ Lite": {
+    "id": 71,
+    "hash": "k40avy",
+    "date": "2026-03-31"
+  },
+  "StarHub::5G Unlimited+ Core": {
+    "id": 72,
+    "hash": "85jldc",
+    "date": "2026-03-31"
+  },
+  "StarHub::5G Unlimited+ Plus": {
+    "id": 73,
+    "hash": "28an0m",
+    "date": "2026-03-31"
+  },
+  "StarHub::5G Unlimited+ Max": {
+    "id": 74,
+    "hash": "nydh0f",
+    "date": "2026-03-31"
+  },
+  "Zym Mobile::Flexi Duo 4G": {
+    "id": 75,
+    "hash": "hz1pkn",
+    "date": "2026-03-31"
+  },
+  "Zym Mobile::Roam Saver 4G": {
+    "id": 76,
+    "hash": "9urslr",
+    "date": "2026-03-31"
+  },
+  "Zym Mobile::Roam Plus 4G": {
+    "id": 77,
+    "hash": "gsl4an",
+    "date": "2026-03-31"
+  },
+  "Zym Mobile::Roam Smart 5G+": {
+    "id": 78,
+    "hash": "stllg4",
+    "date": "2026-03-31"
+  },
+  "Zym Mobile::Roam Eco 5G+": {
+    "id": 79,
+    "hash": "-dnsuoy",
+    "date": "2026-03-31"
+  },
+  "Zym Mobile::Roam Power 5G+": {
+    "id": 80,
+    "hash": "-6usw5t",
+    "date": "2026-03-31"
+  },
+  "CUniq::One Asia 4G A": {
+    "id": 81,
+    "hash": "w2m5eb",
+    "date": "2026-03-31"
+  },
+  "CUniq::One Asia 4G B": {
+    "id": 82,
+    "hash": "-i6rv26",
+    "date": "2026-03-31"
+  },
+  "CUniq::One Asia 5G A": {
+    "id": 83,
+    "hash": "-8quv08",
+    "date": "2026-03-31"
+  },
+  "CUniq::One Asia 5G B": {
+    "id": 84,
+    "hash": "lm7kbt",
+    "date": "2026-03-31"
+  },
+  "CUniq::Hassle-free 100GB 4G": {
+    "id": 85,
+    "hash": "kt7fjy",
+    "date": "2026-03-31"
+  },
+  "CUniq::Hassle-free 200GB 4G": {
+    "id": 86,
+    "hash": "l7ssdf",
+    "date": "2026-03-31"
+  },
+  "CUniq::Hassle-free 300GB 5G": {
+    "id": 87,
+    "hash": "-1hnn3v",
+    "date": "2026-03-31"
+  },
+  "CUniq::Hassle-free 400GB 5G": {
+    "id": 88,
+    "hash": "lj93b",
+    "date": "2026-03-31"
+  }
+}
