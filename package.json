@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "update-plans": "node scripts/update-plans.mjs",
     "update-plans:apply": "node scripts/update-plans.mjs --apply",
-    "update-plans:clear": "node scripts/update-plans.mjs --clear"
+    "update-plans:clear": "node scripts/update-plans.mjs --clear",
+    "check-providers": "node scripts/check-providers.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",

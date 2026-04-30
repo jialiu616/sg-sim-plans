@@ -1,0 +1,18 @@
+[
+  { "provider": "Zero1",        "url": "https://zero1.sg/plans",                                              "signals": ["bundle", "html"] },
+  { "provider": "CMLink",       "url": "https://www.cmlink.com/sg/en/plans/",                                 "signals": ["bundle", "html"] },
+  { "provider": "VIVIFI",       "url": "https://www.vivifi.me/plans",                                         "signals": ["bundle", "html"] },
+  { "provider": "Maxx",         "url": "https://maxx.sg",                                                     "signals": ["html"] },
+  { "provider": "MyRepublic",   "url": "https://myrepublic.net/sg/mobile/",                                   "signals": ["bundle", "html"] },
+  { "provider": "eight",        "url": "https://www.eight.com.sg",                                            "signals": ["html"] },
+  { "provider": "Circles.Life", "url": "https://www.circles.life/sg/plans",                                   "signals": ["bundle", "html"] },
+  { "provider": "SIMBA",        "url": "https://www.simba.sg/plans",                                          "signals": ["bundle", "html"] },
+  { "provider": "GOMO",         "url": "https://www.gomo.sg/plan",                                            "signals": ["bundle", "html"] },
+  { "provider": "giga!",        "url": "https://www.giga.com.sg/mobile-plans",                                "signals": ["bundle", "html"] },
+  { "provider": "redONE",       "url": "https://redonemobile.com.sg",                                         "signals": ["bundle", "html"] },
+  { "provider": "M1",           "url": "https://www.m1.com.sg/mobile/plans",                                  "signals": ["bundle", "html"] },
+  { "provider": "Singtel",      "url": "https://www.singtel.com/personal/products/mobile/postpaid-plans",     "signals": ["bundle", "html"] },
+  { "provider": "StarHub",      "url": "https://www.starhub.com/personal/mobile-plans",                       "signals": ["bundle", "html"] },
+  { "provider": "ZYM Mobile",   "url": "https://zym.sg",                                                      "signals": ["bundle", "html"] },
+  { "provider": "CUniq",        "url": "https://www.cuniq.sg",                                                "signals": ["html"] }
+]

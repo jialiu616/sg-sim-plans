@@ -1,9 +1,9 @@
-name: Weekly Plan Update
+name: Plan Status Update
 
 on:
-  schedule:
-    # Run every Monday at 09:00 SGT (01:00 UTC)
-    - cron: '0 1 * * 1'
+  push:
+    branches: [main]
+    paths: ['src/data/plans.ts']
   workflow_dispatch: # Allow manual trigger
 
 permissions:

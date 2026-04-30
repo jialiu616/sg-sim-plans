@@ -1,0 +1,56 @@
+name: Weekly Provider Check
+
+on:
+  schedule:
+    # Run every Monday at 09:00 SGT (01:00 UTC)
+    - cron: '0 1 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check providers for changes
+        id: check
+        run: |
+          set +e
+          node scripts/check-providers.mjs > report.md
+          exitcode=$?
+          echo "exitcode=$exitcode" >> $GITHUB_OUTPUT
+          if [ $exitcode -eq 0 ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create or update GitHub Issue
+        if: steps.check.outputs.changes == 'true'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: '[Bot] SIM Plan Changes Detected'
+          content-filepath: report.md
+          labels: plan-check,automated
+          update-existing: true
+
+      - name: Commit updated fingerprints
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scripts/provider-hashes.json
+          git diff --cached --quiet || (git commit -m "chore: update provider fingerprints" && git push)
