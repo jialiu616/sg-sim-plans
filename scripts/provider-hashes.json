@@ -1,0 +1,160 @@
+{
+  "Zero1": {
+    "fingerprint": "640c5de176d110a1",
+    "signals": {
+      "bundle": "2ee45576da6ef912",
+      "html": "874b825a4bb7d7c1"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "CMLink": {
+    "fingerprint": "85acffda2b1bd107",
+    "signals": {
+      "bundle": "7c4b033bb58a66a1",
+      "html": "5f73699226ef464e"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "VIVIFI": {
+    "fingerprint": "9e68eb8f38d2aaba",
+    "signals": {
+      "bundle": "bce2b6b4b3b8090b",
+      "html": "13447b6549f9522a"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "Maxx": {
+    "fingerprint": "0c73e7a92906a20b",
+    "signals": {
+      "html": "0dd3a478250dc8f0"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "MyRepublic": {
+    "fingerprint": "fcd175984588eef2",
+    "signals": {
+      "bundle": "483f647ae39e1300",
+      "html": "90caa2773fe7e627"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "eight": {
+    "fingerprint": "8032e11d282e2f1d",
+    "signals": {
+      "html": "6aa13e0536e8142a"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "Circles.Life": {
+    "fingerprint": "deec3e3de0a2800f",
+    "signals": {
+      "bundle": "90a82c82acf60cd6",
+      "html": "242596fb62f5604d"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "SIMBA": {
+    "fingerprint": "f5234cb9118ab275",
+    "signals": {
+      "bundle": "c13778b13e6b9170",
+      "html": "cdce17e257c80a81"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "GOMO": {
+    "fingerprint": "3ce232011e8cec92",
+    "signals": {
+      "bundle": "5f73a0c4508f579d",
+      "html": "64507e097fa0c3cf"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "giga!": {
+    "fingerprint": "63a06c5d697943e4",
+    "signals": {
+      "bundle": "1a04074a42bb6b93",
+      "html": "0047038fbe914c66"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "redONE": {
+    "fingerprint": "299cc947ea505d9e",
+    "signals": {
+      "bundle": "6d63f4a30ee95ecb",
+      "html": "1f3262d467998f92"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "M1": {
+    "lastChecked": "2026-04-30",
+    "consecutiveErrors": 1,
+    "status": "error",
+    "lastError": "HTTP 404"
+  },
+  "Singtel": {
+    "lastChecked": "2026-04-30",
+    "consecutiveErrors": 1,
+    "status": "error",
+    "lastError": "HTTP 404"
+  },
+  "StarHub": {
+    "lastChecked": "2026-04-30",
+    "consecutiveErrors": 1,
+    "status": "error",
+    "lastError": "fetch failed"
+  },
+  "ZYM Mobile": {
+    "fingerprint": "526fb0f88ffe92b5",
+    "signals": {
+      "bundle": "5a5042ee2ecf46f7",
+      "html": "16ea876a0456d892"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  },
+  "CUniq": {
+    "fingerprint": "03917dc6be90a550",
+    "signals": {
+      "html": "e33ea47f1cc68a1a"
+    },
+    "lastChecked": "2026-04-30",
+    "lastChanged": null,
+    "consecutiveErrors": 0,
+    "status": "baseline"
+  }
+}
