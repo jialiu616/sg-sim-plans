@@ -150,7 +150,7 @@ export function extractRoamingGB(roaming: string): number {
   return total;
 }
 
-export const LAST_UPDATED = "2026-03-31";
+export const LAST_UPDATED = "2026-04-30";
 
 export const plans: SimPlan[] = [
   // ========== Zero1 (Network: Singtel) ==========
