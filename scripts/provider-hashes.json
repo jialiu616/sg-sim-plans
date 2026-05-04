@@ -5,10 +5,10 @@
       "bundle": "2ee45576da6ef912",
       "html": "874b825a4bb7d7c1"
     },
-    "lastChecked": "2026-04-30",
+    "lastChecked": "2026-05-04",
     "lastChanged": null,
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "unchanged"
   },
   "CMLink": {
     "fingerprint": "85acffda2b1bd107",
@@ -16,10 +16,10 @@
       "bundle": "7c4b033bb58a66a1",
       "html": "5f73699226ef464e"
     },
-    "lastChecked": "2026-04-30",
+    "lastChecked": "2026-05-04",
     "lastChanged": null,
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "unchanged"
   },
   "VIVIFI": {
     "fingerprint": "9e68eb8f38d2aaba",
@@ -27,20 +27,20 @@
       "bundle": "bce2b6b4b3b8090b",
       "html": "13447b6549f9522a"
     },
-    "lastChecked": "2026-04-30",
+    "lastChecked": "2026-05-04",
     "lastChanged": null,
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "unchanged"
   },
   "Maxx": {
-    "fingerprint": "0c73e7a92906a20b",
+    "fingerprint": "c4bc4adfc7061a20",
     "signals": {
-      "html": "0dd3a478250dc8f0"
+      "html": "0516ca036a88debd"
     },
-    "lastChecked": "2026-04-30",
-    "lastChanged": null,
+    "lastChecked": "2026-05-04",
+    "lastChanged": "2026-05-04",
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "changed"
   },
   "MyRepublic": {
     "fingerprint": "fcd175984588eef2",
@@ -48,31 +48,31 @@
       "bundle": "483f647ae39e1300",
       "html": "90caa2773fe7e627"
     },
-    "lastChecked": "2026-04-30",
+    "lastChecked": "2026-05-04",
     "lastChanged": null,
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "unchanged"
   },
   "eight": {
-    "fingerprint": "8032e11d282e2f1d",
+    "fingerprint": "b1b6d07006dff4f9",
     "signals": {
-      "html": "6aa13e0536e8142a"
+      "html": "5378ab9bd55cf373"
     },
-    "lastChecked": "2026-04-30",
-    "lastChanged": null,
+    "lastChecked": "2026-05-04",
+    "lastChanged": "2026-05-04",
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "changed"
   },
   "Circles.Life": {
-    "fingerprint": "deec3e3de0a2800f",
+    "fingerprint": "0c45262afa5f1021",
     "signals": {
-      "bundle": "90a82c82acf60cd6",
-      "html": "242596fb62f5604d"
+      "bundle": "c9d97cbedc4bdab9",
+      "html": "e2692105dd0f52d4"
     },
-    "lastChecked": "2026-04-30",
-    "lastChanged": null,
+    "lastChecked": "2026-05-04",
+    "lastChanged": "2026-05-04",
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "changed"
   },
   "SIMBA": {
     "fingerprint": "f5234cb9118ab275",
@@ -80,81 +80,81 @@
       "bundle": "c13778b13e6b9170",
       "html": "cdce17e257c80a81"
     },
-    "lastChecked": "2026-04-30",
+    "lastChecked": "2026-05-04",
     "lastChanged": null,
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "unchanged"
   },
   "GOMO": {
-    "fingerprint": "3ce232011e8cec92",
+    "fingerprint": "22e96c8db60ddcba",
     "signals": {
-      "bundle": "5f73a0c4508f579d",
+      "bundle": "3cdc6d53d2ae682a",
       "html": "64507e097fa0c3cf"
     },
-    "lastChecked": "2026-04-30",
-    "lastChanged": null,
+    "lastChecked": "2026-05-04",
+    "lastChanged": "2026-05-04",
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "changed"
   },
   "giga!": {
-    "fingerprint": "63a06c5d697943e4",
+    "fingerprint": "d376a1d968378f52",
     "signals": {
       "bundle": "1a04074a42bb6b93",
-      "html": "0047038fbe914c66"
+      "html": "822e01a3e392f559"
     },
-    "lastChecked": "2026-04-30",
-    "lastChanged": null,
+    "lastChecked": "2026-05-04",
+    "lastChanged": "2026-05-04",
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "changed"
   },
   "redONE": {
-    "fingerprint": "299cc947ea505d9e",
+    "fingerprint": "f617493366a7a6e1",
     "signals": {
       "bundle": "6d63f4a30ee95ecb",
-      "html": "1f3262d467998f92"
+      "html": "881b21e65038466a"
     },
-    "lastChecked": "2026-04-30",
-    "lastChanged": null,
+    "lastChecked": "2026-05-04",
+    "lastChanged": "2026-05-04",
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "changed"
   },
   "M1": {
-    "lastChecked": "2026-04-30",
-    "consecutiveErrors": 1,
+    "lastChecked": "2026-05-04",
+    "consecutiveErrors": 2,
     "status": "error",
     "lastError": "HTTP 404"
   },
   "Singtel": {
-    "lastChecked": "2026-04-30",
-    "consecutiveErrors": 1,
+    "lastChecked": "2026-05-04",
+    "consecutiveErrors": 2,
     "status": "error",
     "lastError": "HTTP 404"
   },
   "StarHub": {
-    "lastChecked": "2026-04-30",
-    "consecutiveErrors": 1,
+    "lastChecked": "2026-05-04",
+    "consecutiveErrors": 2,
     "status": "error",
     "lastError": "fetch failed"
   },
   "ZYM Mobile": {
-    "fingerprint": "526fb0f88ffe92b5",
+    "fingerprint": "56006f19982d8b4a",
     "signals": {
-      "bundle": "5a5042ee2ecf46f7",
-      "html": "16ea876a0456d892"
+      "bundle": "2ba69bd43b7d5b78",
+      "html": "24513473aed6d784"
     },
-    "lastChecked": "2026-04-30",
-    "lastChanged": null,
+    "lastChecked": "2026-05-04",
+    "lastChanged": "2026-05-04",
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "changed"
   },
   "CUniq": {
     "fingerprint": "03917dc6be90a550",
     "signals": {
       "html": "e33ea47f1cc68a1a"
     },
-    "lastChecked": "2026-04-30",
+    "lastChecked": "2026-05-04",
     "lastChanged": null,
     "consecutiveErrors": 0,
-    "status": "baseline"
+    "status": "unchanged"
   }
 }
