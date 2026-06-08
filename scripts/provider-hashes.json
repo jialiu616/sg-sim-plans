@@ -1,23 +1,23 @@
 {
   "Zero1": {
-    "fingerprint": "43d6d9288f16737e",
+    "fingerprint": "bdc5a76d29b9fca1",
     "signals": {
-      "bundle": "483e42c54be29538",
+      "bundle": "68319a00ba90ea7f",
       "html": "a33661f9a0ffc868"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "CMLink": {
-    "fingerprint": "c9cc71d37ca8bfbd",
+    "fingerprint": "bb9476840079b53c",
     "signals": {
-      "bundle": "27ab29a8185d55b3",
-      "html": "ea9b7e6173501fe6"
+      "bundle": "46aea2b0d977c747",
+      "html": "556e44b974adee95"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
@@ -27,50 +27,50 @@
       "bundle": "c8c48d0c810c2338",
       "html": "98f7b5a58f54b55a"
     },
-    "lastChecked": "2026-06-01",
+    "lastChecked": "2026-06-08",
     "lastChanged": "2026-06-01",
     "consecutiveErrors": 0,
-    "status": "changed"
+    "status": "unchanged"
   },
   "Maxx": {
-    "fingerprint": "6a1f53625537b782",
+    "fingerprint": "3f1256a3297911be",
     "signals": {
-      "html": "0b8712660e1a9696"
+      "html": "a837d8e4d5bce43e"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "MyRepublic": {
-    "fingerprint": "756308be50a87f38",
+    "fingerprint": "53880f7a252342d5",
     "signals": {
-      "bundle": "78aac04a37bee3be",
-      "html": "9d0f89c0b395e664"
+      "bundle": "16ffc8d7118f4a8f",
+      "html": "a027fd0c80c30de4"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "eight": {
-    "fingerprint": "bb4f77a82f5f9a2d",
+    "fingerprint": "92633c96545d9cf1",
     "signals": {
-      "html": "003acede381198b8"
+      "html": "385aaa5eea2bde03"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "Circles.Life": {
-    "fingerprint": "88afa5fbcab20574",
+    "fingerprint": "d6fd36e34883b484",
     "signals": {
-      "bundle": "1d3246c8eaacd028",
-      "html": "13955f7f0adae345"
+      "bundle": "8e625aed43f0cff2",
+      "html": "ff6886d5d4f15306"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
@@ -80,80 +80,80 @@
       "bundle": "4eb3480335e1b0ec",
       "html": "cdce17e257c80a81"
     },
-    "lastChecked": "2026-06-01",
+    "lastChecked": "2026-06-08",
     "lastChanged": "2026-06-01",
     "consecutiveErrors": 0,
-    "status": "changed"
+    "status": "unchanged"
   },
   "GOMO": {
-    "fingerprint": "a119a5e4fd3daa78",
+    "fingerprint": "d413f5ecc5940730",
     "signals": {
-      "bundle": "72ab1026f6bef50b",
-      "html": "64507e097fa0c3cf"
+      "bundle": "fcbbe6d8ecf8805b",
+      "html": "c6224d0f9a60376d"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "giga!": {
-    "fingerprint": "fe057061f3e58818",
+    "fingerprint": "565941d3a4b59fb3",
     "signals": {
       "bundle": "1a04074a42bb6b93",
-      "html": "4793fe451145df40"
+      "html": "ecef1f60ef848f1c"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "redONE": {
-    "fingerprint": "5f17724da0accc16",
+    "fingerprint": "5aeee1f1751e13e5",
     "signals": {
-      "bundle": "144cade32e171e02",
-      "html": "224adab4d6a9b85c"
+      "bundle": "4ff286857945d871",
+      "html": "c9d7bc88916eba69"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "M1": {
-    "lastChecked": "2026-06-01",
-    "consecutiveErrors": 6,
+    "lastChecked": "2026-06-08",
+    "consecutiveErrors": 7,
     "status": "error",
     "lastError": "HTTP 404"
   },
   "Singtel": {
-    "lastChecked": "2026-06-01",
-    "consecutiveErrors": 6,
+    "lastChecked": "2026-06-08",
+    "consecutiveErrors": 7,
     "status": "error",
     "lastError": "HTTP 404"
   },
   "StarHub": {
-    "lastChecked": "2026-06-01",
-    "consecutiveErrors": 6,
+    "lastChecked": "2026-06-08",
+    "consecutiveErrors": 7,
     "status": "error",
     "lastError": "fetch failed"
   },
   "ZYM Mobile": {
-    "fingerprint": "84540ac80c6e63df",
+    "fingerprint": "e36892b2e20eceaf",
     "signals": {
-      "bundle": "94e55537e9c8206a",
-      "html": "e192559660ca8ec4"
+      "bundle": "95378defe7fc755f",
+      "html": "70abbf49ef34ba6c"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   },
   "CUniq": {
-    "fingerprint": "140d0ff6bc016387",
+    "fingerprint": "72af884f3feca9d0",
     "signals": {
-      "html": "c723e0436ce233e3"
+      "html": "3b5aeb91f5817b13"
     },
-    "lastChecked": "2026-06-01",
-    "lastChanged": "2026-06-01",
+    "lastChecked": "2026-06-08",
+    "lastChanged": "2026-06-08",
     "consecutiveErrors": 0,
     "status": "changed"
   }
